@@ -15,7 +15,7 @@ Antes de iniciar, certifique-se de que você possui:
 ## Passo-a-Passo
 
 1. **Instalar a Arduino IDE**
-Baixe e instale a Arduino IDE no seu computador clicando <a src = https://www.arduino.cc/en/software> aqui </a>
+Baixe e instale a Arduino IDE no seu computador clicando [aqui](https://www.arduino.cc/en/software)
 2. **Abra a IDE após a instalação.**
 3. **Conectar o Arduino**
 Conecte o Arduino Uno ao seu computador utilizando o cabo USB. O Arduino IDE deve reconhecer automaticamente o dispositivo.
@@ -71,7 +71,7 @@ void loop() {
 
 ## Vídeo
 
-Para acessar o vídeo do led piscando, clique <a src= "https://drive.google.com/file/d/1y30d7vNQkCkcW0dwd2n7T1avsZpiDvq-/view?usp=sharing"> aqui </a>
+Para acessar o vídeo do led piscando, clique [aqui](https://github.com/zzaved/PONDERADA-PROG-M4-S1/blob/main/assets/video_blink.mp4) </a>
 
 ## Conclusão da parte 01
 O projeto "Blink" permite demonstrar o funcionamento básico de controle do LED embutido no Arduino Uno. As imagens e o vídeo mostram o processo e o resultado final.
