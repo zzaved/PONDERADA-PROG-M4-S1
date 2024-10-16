@@ -145,7 +145,7 @@ Para acessar o Projeto TinkerCad, clique [aqui](https://www.tinkercad.com/things
 ### Vista esquemática do circuito
 
 <div align="center">
-  <p><strong>Figura 5: Vista esquemática do circuito</strong> IDE </p>
+  <p><strong>Figura 5: Vista esquemática do circuito</strong> </p>
   <img src="assets/vista_esquematica.jpg" alt="Vista esquemática do circuito" />
   <p><em>Créditos: material produzido pelo autor (2024)</em></p>
 </div>
