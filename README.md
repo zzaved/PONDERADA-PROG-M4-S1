@@ -132,7 +132,7 @@ void loop()
 
 ### Link para o Projeto no TinkerCad
 
-Para acessar o Projeto TinkerCad, clique [aqui](https://inteli-college.slack.com/archives/D06JX31RHRC/p1729079859808329)
+Para acessar o Projeto TinkerCad, clique [aqui](https://www.tinkercad.com/things/b2RA69cNG86/editel?sharecode=YspNTp6gc3MwG4sqN6t8K36lWZR_S99fXoBDVQRyIm0)
 
 ### Imagem do circuto no TinkerCad
 
